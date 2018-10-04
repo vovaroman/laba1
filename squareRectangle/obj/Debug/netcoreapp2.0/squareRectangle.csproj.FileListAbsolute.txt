@@ -1,0 +1,11 @@
+/Users/vr/Projects/squareRectangle/squareRectangle/bin/Debug/netcoreapp2.0/squareRectangle.deps.json
+/Users/vr/Projects/squareRectangle/squareRectangle/bin/Debug/netcoreapp2.0/squareRectangle.runtimeconfig.json
+/Users/vr/Projects/squareRectangle/squareRectangle/bin/Debug/netcoreapp2.0/squareRectangle.runtimeconfig.dev.json
+/Users/vr/Projects/squareRectangle/squareRectangle/bin/Debug/netcoreapp2.0/squareRectangle.dll
+/Users/vr/Projects/squareRectangle/squareRectangle/bin/Debug/netcoreapp2.0/squareRectangle.pdb
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.csprojAssemblyReference.cache
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.csproj.CoreCompileInputs.cache
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.AssemblyInfoInputs.cache
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.AssemblyInfo.cs
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.dll
+/Users/vr/Projects/squareRectangle/squareRectangle/obj/Debug/netcoreapp2.0/squareRectangle.pdb

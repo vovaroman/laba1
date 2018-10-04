@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8A018080-2380-4937-94B6-206C548D41A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="squareRectangle/Program.cs">
+    <Files>
+      <File FileName="squareRectangle/Program.cs" Line="9" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.squareRectangle PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
