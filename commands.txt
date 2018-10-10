@@ -1,0 +1,26 @@
+git log -p -2
+git log
+git commit -m "message"
+git pull
+git push
+git rm
+git add
+git commit --amend // update commit
+git remote -v
+git remote add *link*
+git fetch
+git remote show origin 
+git tag -l 'v1.4.2.*'
+git tag -a v1.4 -m 'my version 1.4'
+git tag
+git show v1.4
+git push origin v1.5
+git push origin --tags
+git branch testing
+git checkout testing //перейти на ветку
+git checkout master
+git checkout -b iss53 // создать и перейти
+git merge iss53 
+git branch -d hotfix // delete branch
+
+
