@@ -22,7 +22,7 @@ namespace squareRectangle
                                             " x2 = {1} \n " +
                                             " d = {2} ", x1, x2, d));
             }
-            else if (d == 0)
+            else if ((int)d == 0)
             {
                 x1 = (-b / 2 * a);
                 Console.WriteLine(string.Format(" x = {0} \n" +
